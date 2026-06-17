@@ -1,0 +1,13 @@
+{
+  "name": "composiofree",
+  "version": "0.1.0",
+  "description": "Free open-source alternative to Composio - unified integration layer for AI apps",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": ["composio", "mcp", "ai", "agents", "integrations"],
+  "license": "MIT"
+}
